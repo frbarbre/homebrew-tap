@@ -1,7 +1,7 @@
 cask "icarus" do
   # Written by the release workflow in frbarbre/icarus on every stable release; edit it there.
-  version "0.2.8"
-  sha256 "4cf50b510fc5bb26249f071c322c5618ad85d2f91b7f6ed5907ef16186bcd34c"
+  version "0.2.10"
+  sha256 "38403ce65ba38caee60184bfca383dd93811ceeda727bfe8311410e34cb13de4"
 
   url "https://github.com/frbarbre/icarus/releases/download/v#{version}/Icarus-#{version}-macos-aarch64.zip"
   name "Icarus"
